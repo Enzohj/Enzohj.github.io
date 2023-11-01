@@ -11,7 +11,7 @@ title                    : "Enzo Hu / Homepage"
 title_separator          : "-"
 name                     : &name "Enzo Hu"
 description              : &description "JOIE DE VIVRE."
-url                      : https://enzohj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://enzohj.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Enzohj/Enzohj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://enzohj.github.io"
+  github           : "https://github.com/Enzohj"
   google_plus      :
   keybase          :
   instagram        :
